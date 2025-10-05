@@ -1,0 +1,8 @@
+1. conda env 생성
+conda create -n testdjango
+2. 파이썬 설정
+conda install python=3.11
+3. django 설치
+pip install django
+4. workspace 디렉토리 이동 후
+ django-admin startproject mysite
